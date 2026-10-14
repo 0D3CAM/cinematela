@@ -1,0 +1,13 @@
+C:\Users\kaua.srodrigues1\source\repos\Projeto-cinema\Projeto-cinema\bin\Debug\Projeto-cinema.exe.config
+C:\Users\kaua.srodrigues1\source\repos\Projeto-cinema\Projeto-cinema\bin\Debug\Projeto-cinema.exe
+C:\Users\kaua.srodrigues1\source\repos\Projeto-cinema\Projeto-cinema\bin\Debug\Projeto-cinema.pdb
+C:\Users\kaua.srodrigues1\source\repos\Projeto-cinema\Projeto-cinema\obj\Debug\Projeto-cinema.csproj.AssemblyReference.cache
+C:\Users\kaua.srodrigues1\source\repos\Projeto-cinema\Projeto-cinema\obj\Debug\Projeto_cinema.filme.resources
+C:\Users\kaua.srodrigues1\source\repos\Projeto-cinema\Projeto-cinema\obj\Debug\Projeto_cinema.selecionarSessao.resources
+C:\Users\kaua.srodrigues1\source\repos\Projeto-cinema\Projeto-cinema\obj\Debug\Projeto_cinema.Form3.resources
+C:\Users\kaua.srodrigues1\source\repos\Projeto-cinema\Projeto-cinema\obj\Debug\Projeto_cinema.selecaoAssentos.resources
+C:\Users\kaua.srodrigues1\source\repos\Projeto-cinema\Projeto-cinema\obj\Debug\Projeto_cinema.Properties.Resources.resources
+C:\Users\kaua.srodrigues1\source\repos\Projeto-cinema\Projeto-cinema\obj\Debug\Projeto-cinema.csproj.GenerateResource.cache
+C:\Users\kaua.srodrigues1\source\repos\Projeto-cinema\Projeto-cinema\obj\Debug\Projeto-cinema.csproj.CoreCompileInputs.cache
+C:\Users\kaua.srodrigues1\source\repos\Projeto-cinema\Projeto-cinema\obj\Debug\Projeto-cinema.exe
+C:\Users\kaua.srodrigues1\source\repos\Projeto-cinema\Projeto-cinema\obj\Debug\Projeto-cinema.pdb
