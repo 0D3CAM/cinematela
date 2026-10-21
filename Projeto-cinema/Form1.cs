@@ -29,32 +29,39 @@ namespace Projeto_cinema
 
         private void filme1_Click(object sender, EventArgs e)
         {
+            selecionarSessao selecionarSessao = new selecionarSessao();
+            selecionarSessao.ShowDialog();
 
         }
 
         private void filme2_Click(object sender, EventArgs e)
         {
-
+            selecionarSessao selecionarSessao = new selecionarSessao();
+            selecionarSessao.ShowDialog();
         }
 
         private void filme3_Click(object sender, EventArgs e)
         {
-
+            selecionarSessao selecionarSessao = new selecionarSessao();
+            selecionarSessao.ShowDialog();
         }
 
         private void filme4_Click(object sender, EventArgs e)
         {
-
+            selecionarSessao selecionarSessao = new selecionarSessao();
+            selecionarSessao.ShowDialog();
         }
 
         private void filme5_Click(object sender, EventArgs e)
         {
-
+            selecionarSessao selecionarSessao = new selecionarSessao();
+            selecionarSessao.ShowDialog();
         }
 
         private void filme6_Click(object sender, EventArgs e)
         {
-
+            selecionarSessao selecionarSessao = new selecionarSessao();
+            selecionarSessao.ShowDialog();
         }
     }
 }

@@ -16,5 +16,27 @@ namespace Projeto_cinema
         {
             InitializeComponent();
         }
+
+        private void voltar2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void avancar_Click(object sender, EventArgs e)
+        {
+            ClubePontos ClubePontos = new ClubePontos();
+            ClubePontos.ShowDialog();
+        }
+
+        private void botaoVoltar_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+        }
+
+        private void botaoAvancar_Click(object sender, EventArgs e)
+        {
+            ClubePontos ClubePontos = new ClubePontos();
+            ClubePontos.ShowDialog();
+        }
     }
 }

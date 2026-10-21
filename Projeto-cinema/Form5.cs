@@ -16,5 +16,32 @@ namespace Projeto_cinema
         {
             InitializeComponent();
         }
+
+        private void voltar2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void Form5_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void avancarPagamento_Click(object sender, EventArgs e)
+        {
+            Pagamento TelaPagamento = new Pagamento();
+            TelaPagamento.ShowDialog();
+        }
+
+        private void botaoVoltar_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+        }
+
+        private void botaoAvancar02_Click(object sender, EventArgs e)
+        {
+            Pagamento TelaPagamento = new Pagamento();
+            TelaPagamento.ShowDialog();
+        }
     }
 }

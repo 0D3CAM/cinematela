@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Projeto_cinema
 {
-    public partial class selecaoAssentos : Form
+    public partial class ClubePontos : Form
     {
-        public selecaoAssentos()
+        public ClubePontos()
         {
             InitializeComponent();
         }
@@ -20,6 +20,41 @@ namespace Projeto_cinema
         private void selecaoAssentos_Load(object sender, EventArgs e)
         {
            
+        }
+
+        private void voltar2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void sim_Click(object sender, EventArgs e)
+        {
+            Form5 cartaoFiel = new Form5();
+            cartaoFiel.ShowDialog();
+
+        }
+
+        private void nao_Click(object sender, EventArgs e)
+        {
+            Pagamento TelaPagamento = new Pagamento();
+            TelaPagamento.ShowDialog();
+        }
+
+        private void botaoVoltar_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+        }
+
+        private void caixaSIM_Click(object sender, EventArgs e)
+        {
+            Form5 cartaoFiel = new Form5();
+            cartaoFiel.ShowDialog();
+        }
+
+        private void caixaNAO_Click(object sender, EventArgs e)
+        {
+            Pagamento TelaPagamento = new Pagamento();
+            TelaPagamento.ShowDialog();
         }
     }
 }

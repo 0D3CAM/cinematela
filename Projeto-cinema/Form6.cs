@@ -16,5 +16,27 @@ namespace Projeto_cinema
         {
             InitializeComponent();
         }
+
+        private void voltar2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void opcaoPix_Click(object sender, EventArgs e)
+        {
+            pagamentoPIX pix = new pagamentoPIX();
+            pix.ShowDialog();
+        }
+
+        private void botaoVoltar_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+        }
+
+        private void picPay_Click(object sender, EventArgs e)
+        {
+            PicPay pagamentoPicPay = new PicPay();
+            pagamentoPicPay.ShowDialog();
+        }
     }
 }

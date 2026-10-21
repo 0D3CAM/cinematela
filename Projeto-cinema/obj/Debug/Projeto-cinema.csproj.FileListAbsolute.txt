@@ -5,9 +5,15 @@ C:\Users\kaua.srodrigues1\source\repos\Projeto-cinema\Projeto-cinema\obj\Debug\P
 C:\Users\kaua.srodrigues1\source\repos\Projeto-cinema\Projeto-cinema\obj\Debug\Projeto_cinema.filme.resources
 C:\Users\kaua.srodrigues1\source\repos\Projeto-cinema\Projeto-cinema\obj\Debug\Projeto_cinema.selecionarSessao.resources
 C:\Users\kaua.srodrigues1\source\repos\Projeto-cinema\Projeto-cinema\obj\Debug\Projeto_cinema.Form3.resources
-C:\Users\kaua.srodrigues1\source\repos\Projeto-cinema\Projeto-cinema\obj\Debug\Projeto_cinema.selecaoAssentos.resources
 C:\Users\kaua.srodrigues1\source\repos\Projeto-cinema\Projeto-cinema\obj\Debug\Projeto_cinema.Properties.Resources.resources
 C:\Users\kaua.srodrigues1\source\repos\Projeto-cinema\Projeto-cinema\obj\Debug\Projeto-cinema.csproj.GenerateResource.cache
 C:\Users\kaua.srodrigues1\source\repos\Projeto-cinema\Projeto-cinema\obj\Debug\Projeto-cinema.csproj.CoreCompileInputs.cache
 C:\Users\kaua.srodrigues1\source\repos\Projeto-cinema\Projeto-cinema\obj\Debug\Projeto-cinema.exe
 C:\Users\kaua.srodrigues1\source\repos\Projeto-cinema\Projeto-cinema\obj\Debug\Projeto-cinema.pdb
+C:\Users\kaua.srodrigues1\source\repos\Projeto-cinema\Projeto-cinema\obj\Debug\Projeto-cinema.exe.config
+C:\Users\kaua.srodrigues1\source\repos\Projeto-cinema\Projeto-cinema\obj\Debug\Projeto_cinema.Form5.resources
+C:\Users\kaua.srodrigues1\source\repos\Projeto-cinema\Projeto-cinema\obj\Debug\Projeto_cinema.Pagamento.resources
+C:\Users\kaua.srodrigues1\source\repos\Projeto-cinema\Projeto-cinema\obj\Debug\Projeto_cinema.ClubePontos.resources
+C:\Users\kaua.srodrigues1\source\repos\Projeto-cinema\Projeto-cinema\obj\Debug\Projeto_cinema.pagamentoPIX.resources
+C:\Users\kaua.srodrigues1\source\repos\Projeto-cinema\Projeto-cinema\obj\Debug\Projeto_cinema.concluido.resources
+C:\Users\kaua.srodrigues1\source\repos\Projeto-cinema\Projeto-cinema\obj\Debug\Projeto_cinema.PicPay.resources

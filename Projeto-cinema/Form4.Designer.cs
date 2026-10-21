@@ -1,6 +1,6 @@
 ﻿namespace Projeto_cinema
 {
-    partial class selecaoAssentos
+    partial class ClubePontos
     {
         /// <summary>
         /// Required designer variable.
@@ -28,118 +28,22 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.voltar2 = new System.Windows.Forms.Button();
-            this.ajuda = new System.Windows.Forms.TextBox();
-            this.textBox7 = new System.Windows.Forms.TextBox();
-            this.textBox6 = new System.Windows.Forms.TextBox();
-            this.textBox5 = new System.Windows.Forms.TextBox();
-            this.textBox4 = new System.Windows.Forms.TextBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.textBox1 = new System.Windows.Forms.TextBox();
             this.textPaticipar = new System.Windows.Forms.TextBox();
-            this.sim = new System.Windows.Forms.Button();
-            this.nao = new System.Windows.Forms.Button();
+            this.botaoVoltar = new System.Windows.Forms.PictureBox();
+            this.pictureBox3 = new System.Windows.Forms.PictureBox();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.pictureBox7 = new System.Windows.Forms.PictureBox();
+            this.caixaSIM = new System.Windows.Forms.PictureBox();
+            this.textoSIM = new System.Windows.Forms.TextBox();
+            this.caixaNAO = new System.Windows.Forms.PictureBox();
+            this.textNÃO = new System.Windows.Forms.TextBox();
+            ((System.ComponentModel.ISupportInitialize)(this.botaoVoltar)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.caixaSIM)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.caixaNAO)).BeginInit();
             this.SuspendLayout();
-            // 
-            // voltar2
-            // 
-            this.voltar2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(22)))), ((int)(((byte)(22)))), ((int)(((byte)(30)))));
-            this.voltar2.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.voltar2.ForeColor = System.Drawing.Color.White;
-            this.voltar2.Location = new System.Drawing.Point(12, 542);
-            this.voltar2.Name = "voltar2";
-            this.voltar2.Size = new System.Drawing.Size(120, 28);
-            this.voltar2.TabIndex = 94;
-            this.voltar2.Text = "<- Voltar";
-            this.voltar2.UseVisualStyleBackColor = false;
-            // 
-            // ajuda
-            // 
-            this.ajuda.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(22)))), ((int)(((byte)(22)))), ((int)(((byte)(30)))));
-            this.ajuda.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.ajuda.ForeColor = System.Drawing.Color.White;
-            this.ajuda.Location = new System.Drawing.Point(26, 476);
-            this.ajuda.Name = "ajuda";
-            this.ajuda.Size = new System.Drawing.Size(134, 24);
-            this.ajuda.TabIndex = 93;
-            this.ajuda.Text = "Precisa de Ajuda?";
-            // 
-            // textBox7
-            // 
-            this.textBox7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(22)))), ((int)(((byte)(22)))), ((int)(((byte)(30)))));
-            this.textBox7.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox7.ForeColor = System.Drawing.Color.White;
-            this.textBox7.Location = new System.Drawing.Point(26, 333);
-            this.textBox7.Name = "textBox7";
-            this.textBox7.Size = new System.Drawing.Size(118, 24);
-            this.textBox7.TabIndex = 92;
-            this.textBox7.Text = "6. Confirmação";
-            // 
-            // textBox6
-            // 
-            this.textBox6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(22)))), ((int)(((byte)(22)))), ((int)(((byte)(30)))));
-            this.textBox6.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox6.ForeColor = System.Drawing.Color.White;
-            this.textBox6.Location = new System.Drawing.Point(26, 277);
-            this.textBox6.Name = "textBox6";
-            this.textBox6.Size = new System.Drawing.Size(118, 24);
-            this.textBox6.TabIndex = 91;
-            this.textBox6.Text = "5. Pagamento";
-            // 
-            // textBox5
-            // 
-            this.textBox5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(22)))), ((int)(((byte)(22)))), ((int)(((byte)(30)))));
-            this.textBox5.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox5.ForeColor = System.Drawing.Color.White;
-            this.textBox5.Location = new System.Drawing.Point(26, 229);
-            this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(149, 24);
-            this.textBox5.TabIndex = 90;
-            this.textBox5.Text = "4. Clube de Pontos";
-            // 
-            // textBox4
-            // 
-            this.textBox4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(22)))), ((int)(((byte)(22)))), ((int)(((byte)(30)))));
-            this.textBox4.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox4.ForeColor = System.Drawing.Color.White;
-            this.textBox4.Location = new System.Drawing.Point(26, 178);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(167, 24);
-            this.textBox4.TabIndex = 89;
-            this.textBox4.Text = "3. Seleção de Assentos";
-            // 
-            // textBox3
-            // 
-            this.textBox3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(22)))), ((int)(((byte)(22)))), ((int)(((byte)(30)))));
-            this.textBox3.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox3.ForeColor = System.Drawing.Color.White;
-            this.textBox3.Location = new System.Drawing.Point(26, 132);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(83, 24);
-            this.textBox3.TabIndex = 88;
-            this.textBox3.Text = "2. Sessão";
-            // 
-            // textBox2
-            // 
-            this.textBox2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(22)))), ((int)(((byte)(22)))), ((int)(((byte)(30)))));
-            this.textBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox2.ForeColor = System.Drawing.Color.White;
-            this.textBox2.Location = new System.Drawing.Point(26, 84);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(149, 24);
-            this.textBox2.TabIndex = 87;
-            this.textBox2.Text = "1. Selecione o Filme";
-            // 
-            // textBox1
-            // 
-            this.textBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(22)))), ((int)(((byte)(22)))), ((int)(((byte)(30)))));
-            this.textBox1.ForeColor = System.Drawing.Color.White;
-            this.textBox1.Location = new System.Drawing.Point(26, 21);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(61, 20);
-            this.textBox1.TabIndex = 86;
-            this.textBox1.Text = "CineFlix";
             // 
             // textPaticipar
             // 
@@ -147,77 +51,131 @@
             this.textPaticipar.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.textPaticipar.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textPaticipar.ForeColor = System.Drawing.SystemColors.Window;
-            this.textPaticipar.Location = new System.Drawing.Point(418, 166);
+            this.textPaticipar.Location = new System.Drawing.Point(519, 246);
             this.textPaticipar.Name = "textPaticipar";
             this.textPaticipar.Size = new System.Drawing.Size(438, 28);
             this.textPaticipar.TabIndex = 95;
             this.textPaticipar.Text = "Participar do Clube de Pontos CineFlix?";
             // 
-            // sim
+            // botaoVoltar
             // 
-            this.sim.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(103)))), ((int)(((byte)(103)))), ((int)(((byte)(114)))));
-            this.sim.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(193)))), ((int)(((byte)(7)))));
-            this.sim.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.sim.ForeColor = System.Drawing.Color.White;
-            this.sim.Location = new System.Drawing.Point(406, 241);
-            this.sim.Name = "sim";
-            this.sim.Size = new System.Drawing.Size(167, 37);
-            this.sim.TabIndex = 96;
-            this.sim.Text = "SIM";
-            this.sim.UseVisualStyleBackColor = false;
+            this.botaoVoltar.Image = global::Projeto_cinema.Properties.Resources.BotaoVoltar;
+            this.botaoVoltar.Location = new System.Drawing.Point(36, 651);
+            this.botaoVoltar.Name = "botaoVoltar";
+            this.botaoVoltar.Size = new System.Drawing.Size(127, 41);
+            this.botaoVoltar.TabIndex = 111;
+            this.botaoVoltar.TabStop = false;
+            this.botaoVoltar.Click += new System.EventHandler(this.botaoVoltar_Click);
             // 
-            // nao
+            // pictureBox3
             // 
-            this.nao.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(103)))), ((int)(((byte)(103)))), ((int)(((byte)(114)))));
-            this.nao.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(193)))), ((int)(((byte)(7)))));
-            this.nao.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.nao.ForeColor = System.Drawing.Color.White;
-            this.nao.Location = new System.Drawing.Point(699, 241);
-            this.nao.Name = "nao";
-            this.nao.Size = new System.Drawing.Size(167, 37);
-            this.nao.TabIndex = 97;
-            this.nao.Text = "NÃO";
-            this.nao.UseVisualStyleBackColor = false;
+            this.pictureBox3.Image = global::Projeto_cinema.Properties.Resources.Footer;
+            this.pictureBox3.Location = new System.Drawing.Point(-5, 643);
+            this.pictureBox3.Name = "pictureBox3";
+            this.pictureBox3.Size = new System.Drawing.Size(1473, 63);
+            this.pictureBox3.TabIndex = 110;
+            this.pictureBox3.TabStop = false;
             // 
-            // selecaoAssentos
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::Projeto_cinema.Properties.Resources.Sidebar__1_;
+            this.pictureBox1.Location = new System.Drawing.Point(-5, 36);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(221, 607);
+            this.pictureBox1.TabIndex = 107;
+            this.pictureBox1.TabStop = false;
+            // 
+            // pictureBox7
+            // 
+            this.pictureBox7.Image = global::Projeto_cinema.Properties.Resources.Cabeçalho;
+            this.pictureBox7.Location = new System.Drawing.Point(-5, -2);
+            this.pictureBox7.Name = "pictureBox7";
+            this.pictureBox7.Size = new System.Drawing.Size(1272, 43);
+            this.pictureBox7.TabIndex = 106;
+            this.pictureBox7.TabStop = false;
+            // 
+            // caixaSIM
+            // 
+            this.caixaSIM.Image = global::Projeto_cinema.Properties.Resources.Rectangle_43;
+            this.caixaSIM.Location = new System.Drawing.Point(488, 359);
+            this.caixaSIM.Name = "caixaSIM";
+            this.caixaSIM.Size = new System.Drawing.Size(207, 73);
+            this.caixaSIM.TabIndex = 112;
+            this.caixaSIM.TabStop = false;
+            this.caixaSIM.Click += new System.EventHandler(this.caixaSIM_Click);
+            // 
+            // textoSIM
+            // 
+            this.textoSIM.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(103)))), ((int)(((byte)(103)))), ((int)(((byte)(114)))));
+            this.textoSIM.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textoSIM.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textoSIM.ForeColor = System.Drawing.Color.White;
+            this.textoSIM.Location = new System.Drawing.Point(575, 381);
+            this.textoSIM.Name = "textoSIM";
+            this.textoSIM.Size = new System.Drawing.Size(47, 22);
+            this.textoSIM.TabIndex = 113;
+            this.textoSIM.Text = "SIM";
+            // 
+            // caixaNAO
+            // 
+            this.caixaNAO.Image = global::Projeto_cinema.Properties.Resources.Rectangle_43;
+            this.caixaNAO.Location = new System.Drawing.Point(781, 359);
+            this.caixaNAO.Name = "caixaNAO";
+            this.caixaNAO.Size = new System.Drawing.Size(207, 73);
+            this.caixaNAO.TabIndex = 114;
+            this.caixaNAO.TabStop = false;
+            this.caixaNAO.Click += new System.EventHandler(this.caixaNAO_Click);
+            // 
+            // textNÃO
+            // 
+            this.textNÃO.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(103)))), ((int)(((byte)(103)))), ((int)(((byte)(114)))));
+            this.textNÃO.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textNÃO.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textNÃO.ForeColor = System.Drawing.Color.White;
+            this.textNÃO.Location = new System.Drawing.Point(860, 381);
+            this.textNÃO.Name = "textNÃO";
+            this.textNÃO.Size = new System.Drawing.Size(47, 22);
+            this.textNÃO.TabIndex = 115;
+            this.textNÃO.Text = "NÃO";
+            // 
+            // ClubePontos
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(22)))), ((int)(((byte)(22)))), ((int)(((byte)(30)))));
-            this.ClientSize = new System.Drawing.Size(1120, 591);
-            this.Controls.Add(this.nao);
-            this.Controls.Add(this.sim);
+            this.ClientSize = new System.Drawing.Size(1266, 704);
+            this.Controls.Add(this.textNÃO);
+            this.Controls.Add(this.caixaNAO);
+            this.Controls.Add(this.textoSIM);
+            this.Controls.Add(this.caixaSIM);
+            this.Controls.Add(this.botaoVoltar);
+            this.Controls.Add(this.pictureBox3);
+            this.Controls.Add(this.pictureBox1);
+            this.Controls.Add(this.pictureBox7);
             this.Controls.Add(this.textPaticipar);
-            this.Controls.Add(this.voltar2);
-            this.Controls.Add(this.ajuda);
-            this.Controls.Add(this.textBox7);
-            this.Controls.Add(this.textBox6);
-            this.Controls.Add(this.textBox5);
-            this.Controls.Add(this.textBox4);
-            this.Controls.Add(this.textBox3);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
-            this.Name = "selecaoAssentos";
-            this.Text = "Seleção de Assentos";
+            this.Name = "ClubePontos";
+            this.Text = "ClubePontos";
             this.Load += new System.EventHandler(this.selecaoAssentos_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.botaoVoltar)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.caixaSIM)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.caixaNAO)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
         }
 
         #endregion
-
-        private System.Windows.Forms.Button voltar2;
-        private System.Windows.Forms.TextBox ajuda;
-        private System.Windows.Forms.TextBox textBox7;
-        private System.Windows.Forms.TextBox textBox6;
-        private System.Windows.Forms.TextBox textBox5;
-        private System.Windows.Forms.TextBox textBox4;
-        private System.Windows.Forms.TextBox textBox3;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.TextBox textPaticipar;
-        private System.Windows.Forms.Button sim;
-        private System.Windows.Forms.Button nao;
+        private System.Windows.Forms.PictureBox pictureBox7;
+        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.PictureBox pictureBox3;
+        private System.Windows.Forms.PictureBox botaoVoltar;
+        private System.Windows.Forms.PictureBox caixaSIM;
+        private System.Windows.Forms.TextBox textoSIM;
+        private System.Windows.Forms.PictureBox caixaNAO;
+        private System.Windows.Forms.TextBox textNÃO;
     }
 }

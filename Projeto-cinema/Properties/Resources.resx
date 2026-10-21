@@ -118,40 +118,109 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="SeatGrid" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\SeatGrid.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="TelaArea (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TelaArea (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="picpay 1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\picpay 1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Cabeçalho" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Cabeçalho.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sidebar (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sidebar (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="pix 1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pix 1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="MainContent (1)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MainContent (1)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sidebar (3)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sidebar (3).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SecHeader" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\SecHeader.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sidebar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sidebar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MainContent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MainContent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="png-transparent-visa-debit-card-credit-card-logo-mastercard-visa-text-trademark-logo(1) 1 (29)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\png-transparent-visa-debit-card-credit-card-logo-mastercard-visa-text-trademark-logo(1) 1 (29).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Footer" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Footer.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sidebar (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sidebar (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sidebar (5)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sidebar (5).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Footer (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Footer (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="money-icon-on-transparent-background-free-png(1) 1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\money-icon-on-transparent-background-free-png(1) 1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rectangle 43" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rectangle 43.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BotaoAvancar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BotaoAvancar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="elo logo 1 (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\elo logo 1 (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="cartaoFidelidade" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\cartaoFidelidade.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Gemini_Generated_Image_v48u0mv48u0mv48u 1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Gemini_Generated_Image_v48u0mv48u0mv48u 1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Corpo" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Corpo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="TelaArea (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\TelaArea (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Rectangle 4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rectangle 4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="png-transparent-logo-american-express-payment-computer-icons-brand-american-express-blue-text-rectangle-thumbnail(1) 1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\png-transparent-logo-american-express-payment-computer-icons-brand-american-express-blue-text-rectangle-thumbnail(1) 1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="cartaoFidelidade" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cartaoFidelidade.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="picpay 1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\picpay 1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Gemini_Generated_Image_v48u0mv48u0mv48u 1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Gemini_Generated_Image_v48u0mv48u0mv48u 1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Image_ Pôster de fantasia animada" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Image_ Pôster de fantasia animada.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BotaoAvancar (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BotaoAvancar (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BotaoVoltar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BotaoVoltar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Footer (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Footer (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sidebar (6)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sidebar (6).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="qr(1) 1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\qr(1) 1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MainContent (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MainContent (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Corpo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Corpo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SeatGrid" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\SeatGrid.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="TelaArea" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\TelaArea.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="money-icon-on-transparent-background-free-png(1) 1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\money-icon-on-transparent-background-free-png(1) 1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Sidebar (4)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sidebar (4).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MainContent (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MainContent (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
