@@ -29,12 +29,10 @@
         private void InitializeComponent()
         {
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
-            this.botaoVoltar = new System.Windows.Forms.PictureBox();
             this.pictureBox4 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.pictureBox7 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.botaoVoltar)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
@@ -48,16 +46,6 @@
             this.pictureBox2.Size = new System.Drawing.Size(1069, 96);
             this.pictureBox2.TabIndex = 116;
             this.pictureBox2.TabStop = false;
-            // 
-            // botaoVoltar
-            // 
-            this.botaoVoltar.Image = global::Projeto_cinema.Properties.Resources.BotaoVoltar;
-            this.botaoVoltar.Location = new System.Drawing.Point(24, 724);
-            this.botaoVoltar.Name = "botaoVoltar";
-            this.botaoVoltar.Size = new System.Drawing.Size(127, 41);
-            this.botaoVoltar.TabIndex = 115;
-            this.botaoVoltar.TabStop = false;
-            this.botaoVoltar.Click += new System.EventHandler(this.botaoVoltar_Click);
             // 
             // pictureBox4
             // 
@@ -93,14 +81,12 @@
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(22)))), ((int)(((byte)(22)))), ((int)(((byte)(30)))));
             this.ClientSize = new System.Drawing.Size(1278, 774);
             this.Controls.Add(this.pictureBox2);
-            this.Controls.Add(this.botaoVoltar);
             this.Controls.Add(this.pictureBox4);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.pictureBox7);
             this.Name = "concluido";
             this.Text = "pagamentoConcluido";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.botaoVoltar)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).EndInit();
@@ -113,7 +99,6 @@
         private System.Windows.Forms.PictureBox pictureBox7;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.PictureBox pictureBox4;
-        private System.Windows.Forms.PictureBox botaoVoltar;
         private System.Windows.Forms.PictureBox pictureBox2;
     }
 }

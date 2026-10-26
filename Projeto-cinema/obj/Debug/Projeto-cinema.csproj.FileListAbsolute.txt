@@ -17,3 +17,7 @@ C:\Users\kaua.srodrigues1\source\repos\Projeto-cinema\Projeto-cinema\obj\Debug\P
 C:\Users\kaua.srodrigues1\source\repos\Projeto-cinema\Projeto-cinema\obj\Debug\Projeto_cinema.pagamentoPIX.resources
 C:\Users\kaua.srodrigues1\source\repos\Projeto-cinema\Projeto-cinema\obj\Debug\Projeto_cinema.concluido.resources
 C:\Users\kaua.srodrigues1\source\repos\Projeto-cinema\Projeto-cinema\obj\Debug\Projeto_cinema.PicPay.resources
+C:\Users\kaua.srodrigues1\source\repos\Projeto-cinema\Projeto-cinema\obj\Debug\Projeto_cinema.Form10.resources
+C:\Users\kaua.srodrigues1\source\repos\Projeto-cinema\Projeto-cinema\obj\Debug\Projeto_cinema.débito.resources
+C:\Users\kaua.srodrigues1\source\repos\Projeto-cinema\Projeto-cinema\obj\Debug\Projeto_cinema.créditoVista.resources
+C:\Users\kaua.srodrigues1\source\repos\Projeto-cinema\Projeto-cinema\obj\Debug\Projeto_cinema.Form13.resources

@@ -63,6 +63,38 @@ namespace Projeto_cinema.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _235_2355598_apple_pay_png_apple_pay_icon_1__1 {
+            get {
+                object obj = ResourceManager.GetObject("235-2355598_apple-pay-png-apple-pay-icon(1) 1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Aguarde_a_impressão_da_nota_de_pagamento_e_compareça_a_um_caixa_para_pagar_em_dinheiro_físico {
+            get {
+                object obj = ResourceManager.GetObject("Aguarde a impressão da nota de pagamento e compareça a um caixa para pagar em din" +
+                        "heiro físico", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Aguarde_a_impressão_da_nota_de_pagamento_e_compareça_a_um_caixa_para_pagar_em_dinheiro_físico1 {
+            get {
+                object obj = ResourceManager.GetObject("Aguarde a impressão da nota de pagamento e compareça a um caixa para pagar em din" +
+                        "heiro físico1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap BotaoAvancar {
             get {
                 object obj = ResourceManager.GetObject("BotaoAvancar", resourceCulture);
@@ -223,6 +255,56 @@ namespace Projeto_cinema.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap MainContent__3_ {
+            get {
+                object obj = ResourceManager.GetObject("MainContent (3)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap MainContent__3_1 {
+            get {
+                object obj = ResourceManager.GetObject("MainContent (3)1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap MainContent__4_ {
+            get {
+                object obj = ResourceManager.GetObject("MainContent (4)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap MainContent__5_ {
+            get {
+                object obj = ResourceManager.GetObject("MainContent (5)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap MainContent__6_ {
+            get {
+                object obj = ResourceManager.GetObject("MainContent (6)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap money_icon_on_transparent_background_free_png_1__1 {
             get {
                 object obj = ResourceManager.GetObject("money-icon-on-transparent-background-free-png(1) 1", resourceCulture);
@@ -278,6 +360,16 @@ namespace Projeto_cinema.Properties {
         internal static System.Drawing.Bitmap qr_1__1 {
             get {
                 object obj = ResourceManager.GetObject("qr(1) 1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Rectangle_15 {
+            get {
+                object obj = ResourceManager.GetObject("Rectangle 15", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -408,6 +500,16 @@ namespace Projeto_cinema.Properties {
         internal static System.Drawing.Bitmap TelaArea__1_ {
             get {
                 object obj = ResourceManager.GetObject("TelaArea (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Universal_Contactless_Card_Symbol_svg_1__1 {
+            get {
+                object obj = ResourceManager.GetObject("Universal_Contactless_Card_Symbol.svg(1) 1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

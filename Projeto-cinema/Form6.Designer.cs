@@ -85,6 +85,7 @@
             this.credito.TabIndex = 22;
             this.credito.Text = "      Crédito a Vista";
             this.credito.UseVisualStyleBackColor = false;
+            this.credito.Click += new System.EventHandler(this.credito_Click);
             // 
             // picPay
             // 
@@ -110,13 +111,14 @@
             this.debito.TabIndex = 24;
             this.debito.Text = "Débito";
             this.debito.UseVisualStyleBackColor = false;
+            this.debito.Click += new System.EventHandler(this.debito_Click);
             // 
             // opcaoPix
             // 
             this.opcaoPix.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(22)))), ((int)(((byte)(22)))), ((int)(((byte)(30)))));
             this.opcaoPix.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.opcaoPix.ForeColor = System.Drawing.Color.White;
-            this.opcaoPix.Location = new System.Drawing.Point(438, 394);
+            this.opcaoPix.Location = new System.Drawing.Point(438, 406);
             this.opcaoPix.Name = "opcaoPix";
             this.opcaoPix.Size = new System.Drawing.Size(320, 44);
             this.opcaoPix.TabIndex = 26;
@@ -135,6 +137,7 @@
             this.dinheiro.TabIndex = 27;
             this.dinheiro.Text = "        Dinheiro";
             this.dinheiro.UseVisualStyleBackColor = false;
+            this.dinheiro.Click += new System.EventHandler(this.dinheiro_Click);
             // 
             // creditoParcelado
             // 
@@ -147,6 +150,7 @@
             this.creditoParcelado.TabIndex = 25;
             this.creditoParcelado.Text = "Crédito (Parcelado)";
             this.creditoParcelado.UseVisualStyleBackColor = false;
+            this.creditoParcelado.Click += new System.EventHandler(this.creditoParcelado_Click);
             // 
             // botaoVoltar
             // 
@@ -206,7 +210,7 @@
             // simboloPix
             // 
             this.simboloPix.Image = global::Projeto_cinema.Properties.Resources.pix_1;
-            this.simboloPix.Location = new System.Drawing.Point(438, 385);
+            this.simboloPix.Location = new System.Drawing.Point(438, 394);
             this.simboloPix.Name = "simboloPix";
             this.simboloPix.Size = new System.Drawing.Size(60, 62);
             this.simboloPix.TabIndex = 40;
@@ -251,7 +255,7 @@
             // simboloMastercard
             // 
             this.simboloMastercard.Image = global::Projeto_cinema.Properties.Resources.Gemini_Generated_Image_v48u0mv48u0mv48u_1;
-            this.simboloMastercard.Location = new System.Drawing.Point(415, 290);
+            this.simboloMastercard.Location = new System.Drawing.Point(415, 285);
             this.simboloMastercard.Name = "simboloMastercard";
             this.simboloMastercard.Size = new System.Drawing.Size(64, 41);
             this.simboloMastercard.TabIndex = 35;
@@ -260,7 +264,7 @@
             // simboloElo
             // 
             this.simboloElo.Image = global::Projeto_cinema.Properties.Resources.elo_logo_1__2_;
-            this.simboloElo.Location = new System.Drawing.Point(471, 334);
+            this.simboloElo.Location = new System.Drawing.Point(471, 329);
             this.simboloElo.Name = "simboloElo";
             this.simboloElo.Size = new System.Drawing.Size(60, 14);
             this.simboloElo.TabIndex = 34;
@@ -269,7 +273,7 @@
             // simboloVisa
             // 
             this.simboloVisa.Image = global::Projeto_cinema.Properties.Resources.png_transparent_visa_debit_card_credit_card_logo_mastercard_visa_text_trademark_logo_1__1__29_;
-            this.simboloVisa.Location = new System.Drawing.Point(419, 332);
+            this.simboloVisa.Location = new System.Drawing.Point(419, 327);
             this.simboloVisa.Name = "simboloVisa";
             this.simboloVisa.Size = new System.Drawing.Size(50, 16);
             this.simboloVisa.TabIndex = 33;
@@ -278,7 +282,7 @@
             // simboloExpress
             // 
             this.simboloExpress.Image = global::Projeto_cinema.Properties.Resources.png_transparent_logo_american_express_payment_computer_icons_brand_american_express_blue_text_rectangle_thumbnail_1__1;
-            this.simboloExpress.Location = new System.Drawing.Point(475, 290);
+            this.simboloExpress.Location = new System.Drawing.Point(475, 285);
             this.simboloExpress.Name = "simboloExpress";
             this.simboloExpress.Size = new System.Drawing.Size(51, 41);
             this.simboloExpress.TabIndex = 32;

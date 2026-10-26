@@ -1,0 +1,37 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Projeto_cinema
+{
+    public partial class débito : Form
+    {
+        public débito()
+        {
+            InitializeComponent();
+        }
+
+        private void botaoAproximacao_Click(object sender, EventArgs e)
+        {
+            concluido pagamentoConcluido = new concluido();
+            pagamentoConcluido.ShowDialog();
+        }
+
+        private void botaoPay_Click(object sender, EventArgs e)
+        {
+            concluido pagamentoConcluido = new concluido();
+            pagamentoConcluido.ShowDialog();
+        }
+
+        private void botaoVoltar_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+        }
+    }
+}

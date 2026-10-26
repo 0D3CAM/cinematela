@@ -28,20 +28,43 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.botaoQRcode = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.botaoVoltar = new System.Windows.Forms.PictureBox();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.pictureBox4 = new System.Windows.Forms.PictureBox();
             this.pictureBox7 = new System.Windows.Forms.PictureBox();
-            this.botaoQRcode = new System.Windows.Forms.PictureBox();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            ((System.ComponentModel.ISupportInitialize)(this.botaoQRcode)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.botaoVoltar)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.botaoQRcode)).BeginInit();
             this.SuspendLayout();
+            // 
+            // textBox1
+            // 
+            this.textBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(22)))), ((int)(((byte)(22)))), ((int)(((byte)(30)))));
+            this.textBox1.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox1.ForeColor = System.Drawing.Color.White;
+            this.textBox1.Location = new System.Drawing.Point(541, 565);
+            this.textBox1.Multiline = true;
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(359, 49);
+            this.textBox1.TabIndex = 122;
+            this.textBox1.Text = "Tempo para realizar o pagamento: \r\n                      3 Minutos";
+            // 
+            // botaoQRcode
+            // 
+            this.botaoQRcode.Image = global::Projeto_cinema.Properties.Resources.qr_1__1;
+            this.botaoQRcode.Location = new System.Drawing.Point(520, 177);
+            this.botaoQRcode.Name = "botaoQRcode";
+            this.botaoQRcode.Size = new System.Drawing.Size(380, 370);
+            this.botaoQRcode.TabIndex = 121;
+            this.botaoQRcode.TabStop = false;
+            this.botaoQRcode.Click += new System.EventHandler(this.botaoQRcode_Click);
             // 
             // pictureBox1
             // 
@@ -60,6 +83,7 @@
             this.botaoVoltar.Size = new System.Drawing.Size(127, 41);
             this.botaoVoltar.TabIndex = 118;
             this.botaoVoltar.TabStop = false;
+            this.botaoVoltar.Click += new System.EventHandler(this.botaoVoltar_Click);
             // 
             // pictureBox3
             // 
@@ -88,29 +112,6 @@
             this.pictureBox7.TabIndex = 116;
             this.pictureBox7.TabStop = false;
             // 
-            // botaoQRcode
-            // 
-            this.botaoQRcode.Image = global::Projeto_cinema.Properties.Resources.qr_1__1;
-            this.botaoQRcode.Location = new System.Drawing.Point(520, 177);
-            this.botaoQRcode.Name = "botaoQRcode";
-            this.botaoQRcode.Size = new System.Drawing.Size(380, 370);
-            this.botaoQRcode.TabIndex = 121;
-            this.botaoQRcode.TabStop = false;
-            this.botaoQRcode.Click += new System.EventHandler(this.botaoQRcode_Click);
-            // 
-            // textBox1
-            // 
-            this.textBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(22)))), ((int)(((byte)(22)))), ((int)(((byte)(30)))));
-            this.textBox1.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox1.ForeColor = System.Drawing.Color.White;
-            this.textBox1.Location = new System.Drawing.Point(541, 565);
-            this.textBox1.Multiline = true;
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(359, 49);
-            this.textBox1.TabIndex = 122;
-            this.textBox1.Text = "Tempo para realizar o pagamento: \r\n                      3 Minutos";
-            // 
             // PicPay
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -126,12 +127,12 @@
             this.Controls.Add(this.pictureBox7);
             this.Name = "PicPay";
             this.Text = "s";
+            ((System.ComponentModel.ISupportInitialize)(this.botaoQRcode)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.botaoVoltar)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.botaoQRcode)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 

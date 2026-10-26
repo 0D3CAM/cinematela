@@ -38,5 +38,29 @@ namespace Projeto_cinema
             PicPay pagamentoPicPay = new PicPay();
             pagamentoPicPay.ShowDialog();
         }
+
+        private void dinheiro_Click(object sender, EventArgs e)
+        {
+            Form10 dinheiro = new Form10();
+            dinheiro.ShowDialog();
+        }
+
+        private void debito_Click(object sender, EventArgs e)
+        {
+            débito telaDébito = new débito();
+            telaDébito.ShowDialog();
+        }
+
+        private void credito_Click(object sender, EventArgs e)
+        {
+            créditoVista telaCredito = new créditoVista();
+            telaCredito.ShowDialog();
+        }
+
+        private void creditoParcelado_Click(object sender, EventArgs e)
+        {
+            Form13 telaCredito = new Form13();
+            telaCredito.ShowDialog();
+        }
     }
 }

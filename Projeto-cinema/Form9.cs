@@ -22,5 +22,10 @@ namespace Projeto_cinema
             concluido pagamentoConcluido = new concluido();
             pagamentoConcluido.ShowDialog();
         }
+
+        private void botaoVoltar_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+        }
     }
 }
