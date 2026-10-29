@@ -56,5 +56,17 @@ namespace Projeto_cinema
             Pagamento TelaPagamento = new Pagamento();
             TelaPagamento.ShowDialog();
         }
+
+        private void labelSIM_Click(object sender, EventArgs e)
+        {
+            Form5 cartaoFiel = new Form5();
+            cartaoFiel.ShowDialog();
+        }
+
+        private void labelNAO_Click(object sender, EventArgs e)
+        {
+            Pagamento TelaPagamento = new Pagamento();
+            TelaPagamento.ShowDialog();
+        }
     }
 }

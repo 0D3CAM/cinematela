@@ -136,8 +136,17 @@
   <data name="MainContent (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\MainContent (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="MainContent (1)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MainContent (1)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MainContent (6)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MainContent (6).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="MainContent (5)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\MainContent (5).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="qr(1) 1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\qr(1) 1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Sidebar (3)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Sidebar (3).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -157,8 +166,8 @@
   <data name="Footer" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Footer.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Rectangle 43" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Rectangle 43.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Sidebar (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sidebar (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Aguarde a impressão da nota de pagamento e compareça a um caixa para pagar em dinheiro físico1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Aguarde a impressão da nota de pagamento e compareça a um caixa para pagar em dinheiro físico1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -172,11 +181,8 @@
   <data name="money-icon-on-transparent-background-free-png(1) 1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\money-icon-on-transparent-background-free-png(1) 1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Universal_Contactless_Card_Symbol.svg(1) 1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Universal_Contactless_Card_Symbol.svg(1) 1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="MainContent (1)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\MainContent (1)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Rectangle 43" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rectangle 43.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Aguarde a impressão da nota de pagamento e compareça a um caixa para pagar em dinheiro físico" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Aguarde a impressão da nota de pagamento e compareça a um caixa para pagar em dinheiro físico.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -199,6 +205,9 @@
   <data name="png-transparent-logo-american-express-payment-computer-icons-brand-american-express-blue-text-rectangle-thumbnail(1) 1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\png-transparent-logo-american-express-payment-computer-icons-brand-american-express-blue-text-rectangle-thumbnail(1) 1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Sidebar (4)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sidebar (4).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="cartaoFidelidade" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\cartaoFidelidade.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -217,14 +226,8 @@
   <data name="BotaoVoltar" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\BotaoVoltar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Sidebar (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Sidebar (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="235-2355598_apple-pay-png-apple-pay-icon(1) 1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\235-2355598_apple-pay-png-apple-pay-icon(1) 1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Footer (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Footer (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Sidebar (6)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Sidebar (6).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -232,8 +235,8 @@
   <data name="MainContent (4)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\MainContent (4).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="qr(1) 1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\qr(1) 1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Footer (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Footer (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="MainContent (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\MainContent (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -247,10 +250,10 @@
   <data name="TelaArea" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\TelaArea.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Sidebar (4)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Sidebar (4).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Universal_Contactless_Card_Symbol.svg(1) 1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Universal_Contactless_Card_Symbol.svg(1) 1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="MainContent (6)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\MainContent (6).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Sidebar (7)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sidebar (7).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

@@ -487,6 +487,16 @@ namespace Projeto_cinema.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Sidebar__7_ {
+            get {
+                object obj = ResourceManager.GetObject("Sidebar (7)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap TelaArea {
             get {
                 object obj = ResourceManager.GetObject("TelaArea", resourceCulture);
