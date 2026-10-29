@@ -26,6 +26,7 @@ namespace Projeto_cinema
         {
             pagamentoPIX pix = new pagamentoPIX();
             pix.ShowDialog();
+            this.Close();
         }
 
         private void botaoVoltar_Click(object sender, EventArgs e)
@@ -37,30 +38,35 @@ namespace Projeto_cinema
         {
             PicPay pagamentoPicPay = new PicPay();
             pagamentoPicPay.ShowDialog();
+            this.Close();
         }
 
         private void dinheiro_Click(object sender, EventArgs e)
         {
             Form10 dinheiro = new Form10();
             dinheiro.ShowDialog();
+            this.Close();
         }
 
         private void debito_Click(object sender, EventArgs e)
         {
             débito telaDébito = new débito();
             telaDébito.ShowDialog();
+            this.Close();
         }
 
         private void credito_Click(object sender, EventArgs e)
         {
             créditoVista telaCredito = new créditoVista();
             telaCredito.ShowDialog();
+            this.Close();
         }
 
         private void creditoParcelado_Click(object sender, EventArgs e)
         {
             Form13 telaCredito = new Form13();
             telaCredito.ShowDialog();
+            this.Close();
         }
     }
 }

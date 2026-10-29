@@ -150,7 +150,7 @@
             this.Controls.Add(this.filme1);
             this.Name = "filme";
             this.Text = "6";
-            this.Load += new System.EventHandler(this.filme_Load);
+            //this.Load += new System.EventHandler(this.filme_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);

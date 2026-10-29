@@ -42,6 +42,7 @@ namespace Projeto_cinema
         {
             Pagamento TelaPagamento = new Pagamento();
             TelaPagamento.ShowDialog();
+            this.Close();
         }
     }
 }

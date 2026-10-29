@@ -149,7 +149,7 @@
             this.filme1.Name = "filme1";
             this.filme1.Size = new System.Drawing.Size(206, 346);
             this.filme1.TabIndex = 44;
-            this.filme1.Text = "Toy Story 5";
+            this.filme1.Text = "Filme1";
             this.filme1.UseVisualStyleBackColor = true;
             this.filme1.Click += new System.EventHandler(this.filme1_Click);
             // 

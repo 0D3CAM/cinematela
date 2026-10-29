@@ -12,6 +12,21 @@ namespace Projeto_cinema
 {
     public partial class Form3 : Form
     {
+        private int idFilme;
+        private string nomeFilme;
+        private string horario;
+        private string tipoSala;
+        private Form telaAnterior;
+
+        public Form3(int idFilme, string nomeFilme, string horario, string tipoSala, Form telaAnterior)
+        {
+            InitializeComponent();
+            this.idFilme = idFilme;
+            this.nomeFilme = nomeFilme;
+            this.horario = horario;
+            this.tipoSala = tipoSala;
+            this.telaAnterior = telaAnterior;
+        }
         public Form3()
         {
             InitializeComponent();
@@ -37,6 +52,7 @@ namespace Projeto_cinema
         {
             ClubePontos ClubePontos = new ClubePontos();
             ClubePontos.ShowDialog();
+            this.Close();
         }
     }
 }

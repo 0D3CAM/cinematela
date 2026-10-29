@@ -94,7 +94,7 @@
             this.pictureBox2.Image = global::Projeto_cinema.Properties.Resources.MainContent;
             this.pictureBox2.Location = new System.Drawing.Point(218, 42);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(1065, 60);
+            this.pictureBox2.Size = new System.Drawing.Size(1065, 43);
             this.pictureBox2.TabIndex = 108;
             this.pictureBox2.TabStop = false;
             // 
